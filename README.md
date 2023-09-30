@@ -1,6 +1,6 @@
 # Is-Bankas-ML-Challenge-5
 ---
-Team Members: Hakan Taştan, Furkan Korkmaz
+Team Members: Hakan Taştan, Furkan Ümit Akkaya
 
 
 Türkiye İş Bankası ML Challenge #5
